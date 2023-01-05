@@ -1,3 +1,21 @@
 <resources>
     <string name="app_name">ARCGISGITHUB</string>
+    <string name="number_of_features_added">Number of features added: </string>
+    <string name="share_mobile_geodatabase">Share mobile geodatabase</string>
+    <string name="view_table">View table</string>
+    <string name="attribut_table_hint">Attribute table loaded from the Mobile Geodatabase file. File can be loaded on ArcGIS Pro or ArcGIS Runtime</string>
+    <string name="file_provider_package">com.esri.arcgisruntime.fileprovider</string>
+
+
+    <string name="dialog_confirm_delete_message">Are you sure you wish to delete feature %s?</string>
+    <string name="dialog_confirm_delete_positive">Delete</string>
+    <string name="dialog_confirm_delete_negative">Cancel</string>
+
+    <string name="success_feature_deleted">Feature successfully deleted</string>
+
+    <string name="error_getting_identify_result">Exception getting identify result: %s</string>
+    <string name="error_feature_deletion">Cannot delete feature: %s</string>
+    <string name="error_applying_edits">Exception applying edits on server: %s</string>
+
+    <string name="location_permission_denied">Permission Denied</string>
 </resources>
